@@ -22,3 +22,8 @@ bot.on("message", async message => {
 });
 
 bot.login(process.env.token);
+
+Running java -version on ⬢ sushi... up, run.5064 (Free)
+openjdk version "1.8.0_144"
+OpenJDK Runtime Environment (Zulu 8.23.0.3-linux64) (build 1.8.0_144-b01)
+OpenJDK 64-Bit Server VM (Zulu 8.23.0.3-linux64) (build 25.144-b01, mixed mode)
